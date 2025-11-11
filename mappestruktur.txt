@@ -1,0 +1,1 @@
+Jeg skal ha hele prosjektet i en mappe. Jeg må gjøre at PI maskinen kan synce til min github repo.
